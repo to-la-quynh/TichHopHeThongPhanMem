@@ -1,0 +1,10 @@
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\bin\Debug\Sample.exe.config
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\bin\Debug\Sample.exe
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\bin\Debug\Sample.pdb
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\obj\Debug\Sample.csproj.SuggestedBindingRedirects.cache
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\obj\Debug\Sample.Properties.Resources.resources
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\obj\Debug\Sample.csproj.GenerateResource.cache
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\obj\Debug\Sample.exe
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\Sample\obj\Debug\Sample.pdb

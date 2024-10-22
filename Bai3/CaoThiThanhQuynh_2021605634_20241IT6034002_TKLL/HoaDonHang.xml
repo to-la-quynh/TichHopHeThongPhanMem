@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="HoaDonHang.xslt"?>
+
+<ds>
+	<hoadon>
+		<mahd>HD1</mahd>
+		<ngayban>2015-11-09</ngayban>
+		<loaihang maloai="A" tenloai="Điện tử">
+			<hang mahang="H1">
+				<tenhang>Tivi</tenhang>
+				<soluong>60</soluong>
+				<donvitinh>Chiếc</donvitinh>
+				<dongia>6000000</dongia>
+			</hang>
+			<hang mahang="H2">
+				<tenhang>Tủ lạnh</tenhang>
+				<soluong>80</soluong>
+				<donvitinh>Chiếc</donvitinh>
+				<dongia>4200000</dongia>
+			</hang>
+		</loaihang>
+	</hoadon>
+	<hoadon>
+		<mahd>HD2</mahd>
+		<ngayban>2015-11-09</ngayban>
+		<loaihang maloai="A" tenloai="Điện tử">
+			<hang mahang="H1">
+				<tenhang>Tivi</tenhang>
+				<soluong>60</soluong>
+				<donvitinh>Chiếc</donvitinh>
+				<dongia>6000000</dongia>
+			</hang>
+			<hang mahang="H2">
+				<tenhang>Tủ lạnh</tenhang>
+				<soluong>80</soluong>
+				<donvitinh>Chiếc</donvitinh>
+				<dongia>4200000</dongia>
+			</hang>
+		</loaihang>
+	</hoadon>
+</ds>

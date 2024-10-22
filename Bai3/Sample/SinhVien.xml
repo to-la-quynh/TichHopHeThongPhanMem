@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="SinhVien.xslt"?>
+<DSSV>
+	<sv masv="1">
+		<hoten>Nguyễn Văn A</hoten>
+		<diem>7</diem>
+	</sv>
+	<sv masv="2">
+		<hoten>Lê Thị B</hoten>
+		<diem>4</diem>
+	</sv>
+	<sv masv="3">
+		<hoten>Đào Văn C</hoten>
+		<diem>9</diem>
+	</sv>
+</DSSV>
