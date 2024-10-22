@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doan so="121">
+	<thoigian ngaygiao="2-9-2017" ngayhoanthanh="3-9-2017">
+		<giangvien ten="Trần Thanh Hùng">
+			<dslop nienhoa="10" khoa="CNTT">
+				<lop malop="HTTT2-K10">
+					<dssv>
+						<sv>
+							<hoten>Nguyễn Văn Bắc</hoten>
+							<noidung>
+								<banve>
+									<ten>A</ten>
+									<khogiay>A3</khogiay>
+									<soluong>5</soluong>
+								</banve>
+								<banve>
+									<ten>B</ten>
+									<khogiay>A4</khogiay>
+									<soluong>5</soluong>
+								</banve>
+							</noidung>
+							<thuyetminh>abc</thuyetminh>
+						</sv>
+					</dssv>
+				</lop>
+			</dslop>
+		</giangvien>
+	</thoigian>
+</doan>

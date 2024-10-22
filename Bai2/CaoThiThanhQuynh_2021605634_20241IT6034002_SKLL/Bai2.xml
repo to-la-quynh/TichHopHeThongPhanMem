@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ds xmlns="http://tempuri.org/Bai2.xsd">
+	<dshd>
+		<maHD>a1</maHD>
+		<ngayBan>2024-12-12</ngayBan>
+		<loaiHang maLoai="a" tenLoai="Điện tử">
+			<hang maHang="h1">
+				<tenHang>Tivi</tenHang>
+				<soLuong>60</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>6000000</donGia>
+			</hang>
+			<hang maHang="h2">
+				<tenHang>Tủ lạnh</tenHang>
+				<soLuong>80</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>4200000</donGia>
+			</hang>
+			<hang maHang="h3">
+				<tenHang>Máy hút bụi</tenHang>
+				<soLuong>80</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>4200000</donGia>
+			</hang>
+		</loaiHang>
+		<loaiHang maLoai="b" tenLoai="Điện tử">
+			<hang maHang="h4">
+				<tenHang>Tivi</tenHang>
+				<soLuong>60</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>6000000</donGia>
+			</hang>
+			<hang maHang="h5">
+				<tenHang>Tủ lạnh</tenHang>
+				<soLuong>80</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>4200000</donGia>
+			</hang>
+			<hang maHang="h6">
+				<tenHang>Máy hút bụi</tenHang>
+				<soLuong>80</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>4200000</donGia>
+			</hang>
+		</loaiHang>
+	</dshd>
+	
+	<dshd>
+		<maHD>a2</maHD>
+		<ngayBan>2024-12-12</ngayBan>
+		<loaiHang maLoai="c" tenLoai="Điện tử">
+			<hang maHang="h7">
+				<tenHang>Tivi</tenHang>
+				<soLuong>60</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>6000000</donGia>
+			</hang>
+			<hang maHang="h8">
+				<tenHang>Tủ lạnh</tenHang>
+				<soLuong>80</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>4200000</donGia>
+			</hang>
+			<hang maHang="h9">
+				<tenHang>Máy hút bụi</tenHang>
+				<soLuong>80</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>4200000</donGia>
+			</hang>
+		</loaiHang>
+		<loaiHang maLoai="d" tenLoai="Điện tử">
+			<hang maHang="h10">
+				<tenHang>Tivi</tenHang>
+				<soLuong>60</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>6000000</donGia>
+			</hang>
+			<hang maHang="h11">
+				<tenHang>Tủ lạnh</tenHang>
+				<soLuong>80</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>4200000</donGia>
+			</hang>
+			<hang maHang="h12">
+				<tenHang>Máy hút bụi</tenHang>
+				<soLuong>80</soLuong>
+				<dvTinh>chiếc</dvTinh>
+				<donGia>4200000</donGia>
+			</hang>
+		</loaiHang>
+	</dshd>
+</ds>

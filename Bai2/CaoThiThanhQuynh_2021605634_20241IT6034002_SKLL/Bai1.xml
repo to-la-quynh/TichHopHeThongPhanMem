@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QLSV xmlns="http://tempuri.org/Bai1.xsd">
+	<SinhVien Masv="sv01">
+		<Hoten>Nguyen Van A</Hoten>
+		<Ngaysinh>1998-08-12</Ngaysinh>
+		<Gioitinh>Nam</Gioitinh>
+		<Que>Ha Noi</Que>
+		<Trinhdo>Dai hoc</Trinhdo>
+		<Hesodiem>3.12</Hesodiem>
+	</SinhVien>
+	<SinhVien Masv="sv02">
+		<Hoten>Nguyen Thi B</Hoten>
+		<Ngaysinh>1999-09-02</Ngaysinh>
+		<Gioitinh>Nu</Gioitinh>
+		<Que>Ha Nam</Que>
+		<Trinhdo>Cao Dang</Trinhdo>
+		<Hesodiem>3.4</Hesodiem>
+	</SinhVien>
+</QLSV>
