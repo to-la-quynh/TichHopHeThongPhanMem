@@ -4,48 +4,45 @@
 >
 	<xsl:output method="html" indent="yes"/>
 
-	<xsl:template match="/">
+	<xsl:template match="ds/hoadon">
 		<html>
 			<head>
 				<title>Hoá đơn hàng</title>
 			</head>
 			<body>
-				<xsl:apply-templates select="ds/hoadon"/>
+				<h2 align="center">PHIẾU MUA HÀNG</h2>
+				<table border="0">
+					<tr>
+						<td>
+							<b>Hoá đơn: </b>
+							<xsl:value-of select="mahd"/>
+						</td>
+						<td>
+							<b>Ngày bán: </b>
+							<xsl:value-of select="ngayban"/>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<b>Loại hàng: </b>
+							<xsl:value-of select="loaihang/@tenloai"/>
+						</td>
+						<td></td>
+					</tr>
+				</table>
+				<table border="1" cellpadding="5" cellspacing="0">
+					<tr>
+						<th>Mã hàng</th>
+						<th>Tên hàng</th>
+						<th>Số lượng</th>
+						<th>Đơn giá</th>
+						<th>Thành tiền</th>
+					</tr>
+					<xsl:apply-templates select="loaihang/hang"/>
+				</table>
+				<hr/>
 			</body>
 		</html>
-	</xsl:template>
-
-	<xsl:template match="ds/hoadon">
-		<h2 align="center">PHIẾU MUA HÀNG</h2>
-		<table border="0">
-			<tr>
-				<td>
-					<b>Hoá đơn: </b>
-					<xsl:value-of select="mahd"/>
-				</td>
-				<td>
-					<b>Ngày bán: </b>
-					<xsl:value-of select="ngayban"/>
-				</td>
-			</tr>
-			<tr>
-				<td>
-					<b>Loại hàng: </b>
-					<xsl:value-of select="loaihang/@tenloai"/>
-				</td>
-			</tr>
-		</table>
-		<table border="1">
-			<tr>
-				<th>Mã hàng</th>
-				<th>Tên hàng</th>
-				<th>Số lượng</th>
-				<th>Đơn giá</th>
-				<th>Thành tiền</th>
-			</tr>
-			<xsl:apply-templates select="loaihang/hang"/>
-		</table>
-		<hr></hr>
 	</xsl:template>
 
 	<xsl:template match="loaihang/hang">
