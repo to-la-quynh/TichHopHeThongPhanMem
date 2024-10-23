@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="HoaDonHang.xslt"?>
+
+<QLBV xmlns="http://tempuri.org/HoaDonHang.xsd">
+	<khoa>
+		<tenkhoa>Ngoại</tenkhoa>
+		<truongkhoa>Nguyễn Văn A</truongkhoa>
+		<dsbenhnhan>
+			<benhnhan mabn="bn01">
+				<hoten>Nguyễn Thị B</hoten>
+				<diachi>Hà Nội</diachi>
+				<sdt>0123456789</sdt>
+				<ngaynhapvien>2024-12-12</ngaynhapvien>
+				<songaynam>0</songaynam>
+			</benhnhan>
+			<benhnhan mabn="bn02">
+				<hoten>Nguyễn Thị C</hoten>
+				<diachi>Hà Nội</diachi>
+				<sdt>0123456789</sdt>
+				<ngaynhapvien>2024-12-12</ngaynhapvien>
+				<songaynam>2</songaynam>
+			</benhnhan>
+		</dsbenhnhan>
+	</khoa>
+
+	<khoa>
+		<tenkhoa>Nội</tenkhoa>
+		<truongkhoa>Nguyễn Văn B</truongkhoa>
+		<dsbenhnhan>
+			<benhnhan mabn="bn03">
+				<hoten>Nguyễn Thị B</hoten>
+				<diachi>Hà Nội</diachi>
+				<sdt>0123456789</sdt>
+				<ngaynhapvien>2024-12-12</ngaynhapvien>
+				<songaynam>1</songaynam>
+			</benhnhan>
+			<benhnhan mabn="bn04">
+				<hoten>Nguyễn Thị C</hoten>
+				<diachi>Hà Nội</diachi>
+				<sdt>0123456789</sdt>
+				<ngaynhapvien>2024-12-12</ngaynhapvien>
+				<songaynam>4</songaynam>
+			</benhnhan>
+		</dsbenhnhan>
+	</khoa>
+
+</QLBV>

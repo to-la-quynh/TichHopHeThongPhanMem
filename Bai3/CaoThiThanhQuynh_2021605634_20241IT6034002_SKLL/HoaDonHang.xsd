@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HoaDonHang"
+    targetNamespace="http://tempuri.org/HoaDonHang.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/HoaDonHang.xsd"
+    xmlns:mstns="http://tempuri.org/HoaDonHang.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!--Ràng buộc số điện thoại là một dãy gồm 10 số-->
+	<xs:simpleType name="sdtType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\d{10}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Ràng buộc số ngày nằm viện là một số >= 0-->
+	<xs:simpleType name="soNgayType">
+		<xs:restriction base="xs:int">
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!--Định nghĩa thông tin bệnh nhân-->
+	<xs:complexType name="benhnhanType">
+		<xs:sequence>
+			<xs:element name="hoten" type="xs:string"/>
+			<xs:element name="diachi" type="xs:string"/>
+			<xs:element name="sdt" type="sdtType"/>
+			<xs:element name="ngaynhapvien" type="xs:date"/>
+			<xs:element name="songaynam" type="soNgayType"/>
+		</xs:sequence>
+		<xs:attribute name="mabn" type="xs:ID"/>
+	</xs:complexType>
+
+	<xs:complexType name="dsBenhNhanType">
+		<xs:sequence>
+			<xs:element name="benhnhan" type="benhnhanType" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!--Định nghĩa thông tin khoa-->
+	<xs:complexType name="khoaType">
+		<xs:sequence>
+			<xs:element name="tenkhoa" type="xs:string"/>
+			<xs:element name="truongkhoa" type="xs:string"/>
+			<xs:element name="dsbenhnhan" type="dsBenhNhanType"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="QLBV">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="khoa" type="khoaType" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
