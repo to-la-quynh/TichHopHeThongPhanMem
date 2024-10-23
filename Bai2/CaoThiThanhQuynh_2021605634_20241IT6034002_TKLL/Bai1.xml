@@ -8,27 +8,27 @@
 					<ngaysinh>5/3/1997</ngaysinh>
 				</thongtinsinhvien>
 				<dsmonhoc>
-					<mon stt="1" tenmon="Toán">
+					<mon tenmon="Toán">
 						<lan1>5</lan1>
 						<lan2>6</lan2>
 						<canam>8</canam>
 					</mon>
-					<mon stt="2" tenmon="Văn">
+					<mon tenmon="Văn">
 						<lan1>7</lan1>
 						<lan2>8</lan2>
 						<canam>4</canam>
 					</mon>
-					<mon stt="3" tenmon="Ngoại ngữ">
+					<mon tenmon="Ngoại ngữ">
 						<lan1>3</lan1>
 						<lan2>5</lan2>
 						<canam>5</canam>
 					</mon>
-					<mon stt="4" tenmon="Sử">
+					<mon tenmon="Sử">
 						<lan1>2</lan1>
 						<lan2>5</lan2>
 						<canam>3</canam>
 					</mon>
-					<mon stt="5" tenmon="Sinh">
+					<mon tenmon="Sinh">
 						<lan1>8</lan1>
 						<lan2>8</lan2>
 						<canam>4</canam>
