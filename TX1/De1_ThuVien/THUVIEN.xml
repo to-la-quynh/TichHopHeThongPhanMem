@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="THUVIEN.xslt"?>
+<TV TenTV="Khu A Đại học Công nghiệp" >
+	<NhaXB TenNXB="Giáo dục">
+		<Sach MaSach="S001">
+			<TenSach>Tin văn phòng</TenSach>
+			<TheLoai>Tin học</TheLoai>
+			<SoTrang>120</SoTrang>
+		</Sach>
+		<Sach MaSach="S002">
+			<TenSach>Kế toán doanh nghiệp</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>400</SoTrang>
+		</Sach>
+		<Sach MaSach="S003">
+			<TenSach>Kế toán doanh nghiệp</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+	</NhaXB>
+
+	<NhaXB TenNXB="Tuổi trẻ">
+		<Sach MaSach="S004">
+			<TenSach>Tin văn phòng</TenSach>
+			<TheLoai>Tin học</TheLoai>
+			<SoTrang>120</SoTrang>
+		</Sach>
+		<Sach MaSach="S005">
+			<TenSach>Kế toán doanh nghiệp</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+		<Sach MaSach="S006">
+			<TenSach>Kế toán doanh nghiệp</TenSach>
+			<TheLoai>Kinh tế</TheLoai>
+			<SoTrang>180</SoTrang>
+		</Sach>
+	</NhaXB>
+</TV>
