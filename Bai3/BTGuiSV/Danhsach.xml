@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Danhsach_sd_template.xslt"?>
+
+<ds>
+	<congty tenct="Công ty dược Nam Hà">
+		<donvi>
+			<madv>A01</madv>
+			<tendv>Phòng tổ chức</tendv>
+			<dienthoai>0437856868</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Lê Thu Lan</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+
+	<congty tenct="Công ty dược Thái Hà">
+		<donvi>
+			<madv>A01</madv>
+			<tendv>Phòng tổ chức</tendv>
+			<dienthoai>0437856868</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Lê Thu Lan</hoten>
+				<ngaysinh>1988-12-21</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>20</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+</ds>

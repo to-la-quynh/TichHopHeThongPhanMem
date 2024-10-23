@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5DF40B8D-1FB7-44F9-AAED-667F1B06E847}</ProjectGuid>
+    <ProjectGuid>{39ACC25C-9671-430B-BAE1-996DAB55CB08}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CaoThiThanhQuynh_2021605634_20241IT6034002_SKLL</RootNamespace>
-    <AssemblyName>CaoThiThanhQuynh_2021605634_20241IT6034002_SKLL</AssemblyName>
+    <RootNamespace>BTGuiSV</RootNamespace>
+    <AssemblyName>BTGuiSV</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -63,9 +63,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="HoaDonHang.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -80,8 +77,20 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HoaDonHang.xml" />
-    <Content Include="HoaDonHang.xslt" />
+    <Content Include="Danhsach.xml" />
+    <Content Include="Danhsach.xslt" />
+    <Content Include="Danhsach_sd_template.xslt" />
+    <Content Include="Gptb1.xml" />
+    <Content Include="nhanvien.xml" />
+    <Content Include="nhanvien.xslt" />
+    <Content Include="nhanvien_sd_template.xslt" />
+    <Content Include="ptb1.xslt" />
+    <Content Include="TienDien.xml" />
+    <Content Include="TienDien.xslt" />
+    <Content Include="VD1.xml" />
+    <Content Include="VD1.xslt" />
+    <Content Include="VD2.xml" />
+    <Content Include="VD2.xslt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

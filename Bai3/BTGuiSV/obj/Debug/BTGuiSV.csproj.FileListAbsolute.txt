@@ -1,0 +1,10 @@
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\bin\Debug\BTGuiSV.exe.config
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\bin\Debug\BTGuiSV.exe
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\bin\Debug\BTGuiSV.pdb
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\obj\Debug\BTGuiSV.csproj.AssemblyReference.cache
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\obj\Debug\BTGuiSV.csproj.SuggestedBindingRedirects.cache
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\obj\Debug\BTGuiSV.Properties.Resources.resources
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\obj\Debug\BTGuiSV.csproj.GenerateResource.cache
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\obj\Debug\BTGuiSV.csproj.CoreCompileInputs.cache
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\obj\Debug\BTGuiSV.exe
+D:\Dai_hoc_2021-2025\Ki_7\6_TichHopHTPM\BTTH\Bai3\BTGuiSV\obj\Debug\BTGuiSV.pdb

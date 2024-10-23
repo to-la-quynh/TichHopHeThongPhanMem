@@ -20,7 +20,7 @@
 	</xsl:template>
 
 	<!-- Template cho từng khoa -->
-	<xsl:template match="ns:khoa">
+	<xsl:template match="ns:QLBV/ns:khoa">
 		<table border="0">
 			<tr>
 				<td>BỆNH VIỆN ĐA KHOA</td>
@@ -49,7 +49,7 @@
 	</xsl:template>
 
 	<!-- Template cho từng bệnh nhân -->
-	<xsl:template match="ns:benhnhan">
+	<xsl:template match="ns:dsbenhnhan/ns:benhnhan">
 		<tr>
 			<td>
 				<xsl:value-of select="position()"/>

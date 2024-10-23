@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="nhanvien_sd_template.xslt"?>
+<congty>
+	<donvi madv="a01">
+		<tendv>Phòng tổ chức</tendv>
+		<dienthoai>0437856864</dienthoai>
+		<nhanvien>
+			<manv>tc01</manv>
+			<hoten>Lê Thu Hà</hoten>
+			<ngaysinh>1988-12-23</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>3</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>tc02</manv>
+			<hoten>Lê Thu Vân</hoten>
+			<ngaysinh>1988-12-23</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>2.36</hsluong>
+		</nhanvien>
+	</donvi>
+
+	<donvi madv="a02">
+		<tendv>Phòng hành chính</tendv>
+		<dienthoai>0437856864</dienthoai>
+		<nhanvien>
+			<manv>tc03</manv>
+			<hoten>Lê Thu Hà</hoten>
+			<ngaysinh>1988-12-23</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>2.34</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>tc04</manv>
+			<hoten>Lê Thu Vân</hoten>
+			<ngaysinh>1988-12-23</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>2.36</hsluong>
+		</nhanvien>
+	</donvi>
+</congty>
